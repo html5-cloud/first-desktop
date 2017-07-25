@@ -1,0 +1,19 @@
+{
+  "name": "first-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/html5-cloud/first-desktop.git"
+  },
+  "author": "cloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/html5-cloud/first-desktop/issues"
+  },
+  "homepage": "https://github.com/html5-cloud/first-desktop#readme"
+}
